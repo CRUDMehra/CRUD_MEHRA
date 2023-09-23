@@ -1,6 +1,7 @@
-<h2 dir="auto" link="https://www.crudmehra.com/">CRUD MEHRA</h2>
 
-<h4 dir="auto" link="https://www.crudmehra.com/">About Me</h4>
+<h2 dir="auto" href="https://www.crudmehra.com/">CRUD MEHRA</h2>
+
+<h4 dir="auto" href="https://www.crudmehra.com/">About Me</h4>
 </br>
 I am an accomplished Senior Software Engineer - Android with an impressive track record at NetScape Labs, where I excel in designing and developing cutting-edge mobile applications tailored for the Android platform. With over 5 years of dedicated professional experience, I bring a wealth of expertise in mobile analytics, front-end development, and a versatile skill set encompassing Java and Kotlin. Additionally, I possess proficiency in Flutter and React Native, facilitating seamless adaptation to diverse programming languages.</br></br> 
 
